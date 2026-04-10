@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rasimj/PRACTICE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rasimj/PRACTICE/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rasimj/PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rasimj/PRACTICE/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rasimj/PRACTICE/tree/master/0274-h-index) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rasimj/PRACTICE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
