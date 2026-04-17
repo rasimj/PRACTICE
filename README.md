@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rasimj/PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rasimj/PRACTICE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rasimj/PRACTICE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rasimj/PRACTICE/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rasimj/PRACTICE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rasimj/PRACTICE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rasimj/PRACTICE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rasimj/PRACTICE/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rasimj/PRACTICE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rasimj/PRACTICE/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/rasimj/PRACTICE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
