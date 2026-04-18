@@ -10,8 +10,7 @@ class Solution {
 
         if (hm.containsKey(req_num))
         {
-        int[] arr = {hm.get(req_num),i};
-        return arr;
+            return new int[]{hm.get(req_num), i};
         }
 
         hm.put(nums[i],i);
